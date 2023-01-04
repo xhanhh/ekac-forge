@@ -1,0 +1,28 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="GNU GPLv3"
+[[mods]]
+modId="ekac"
+version="0.1b1"
+displayName="ekaC"
+displayURL="https://github.com/xhanhh/ekac-forge"
+logoFile="ekac.png"
+credits=""
+authors="xhanhh"
+description='''
+Inverted cake.
+
+If you find any bugs, please submit an issue on Github, Thanks! =)
+'''
+[[dependencies.ekac]]
+    modId="forge"
+    mandatory=true
+    versionRange="[36,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.ekac]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.4,1.17)"
+    ordering="NONE"
+    side="BOTH"
