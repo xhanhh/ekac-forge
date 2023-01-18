@@ -1,0 +1,28 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+license="GNU GPLv3"
+[[mods]]
+modId="ekac"
+version="0.2b1"
+displayName="ekaC"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/ekac"
+logoFile="ekac.png"
+credits="WOW"
+authors="Myxhan(xhanhh)"
+description='''
+This mod adds an inverted ekac.
+ekaC!!
+(alright it's not a cake)?
+'''
+[[dependencies.ekac]]
+    modId="forge"
+    mandatory=true
+    versionRange="[40,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.ekac]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.18.2,1.19)"
+    ordering="NONE"
+    side="BOTH"
