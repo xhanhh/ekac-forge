@@ -14,9 +14,9 @@ apply plugin: 'net.minecraftforge.gradle'
 apply plugin: 'eclipse'
 apply plugin: 'maven-publish'
 
-version = 'v0.1b1'
+version = 'v0.1'
 group = 'top.ilov.mcmods.ekac' // http://maven.apache.org/guides/mini/guide-naming-conventions.html
-archivesBaseName = 'ekac'
+archivesBaseName = 'ekaC-forge1.16.5'
 
 java.toolchain.languageVersion = JavaLanguageVersion.of(8) // Mojang ships Java 8 to end users, so your mod should target Java 8.
 

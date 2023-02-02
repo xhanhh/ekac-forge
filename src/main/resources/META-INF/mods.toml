@@ -3,7 +3,7 @@ loaderVersion="[36,)"
 license="GNU GPLv3"
 [[mods]]
 modId="ekac"
-version="0.1b1"
+version="0.1"
 displayName="ekaC"
 displayURL="https://github.com/xhanhh/ekac-forge"
 logoFile="ekac.png"
