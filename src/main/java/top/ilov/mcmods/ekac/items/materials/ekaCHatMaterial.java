@@ -9,6 +9,7 @@ import net.minecraft.util.SoundEvent;
 import net.minecraft.util.SoundEvents;
 import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.api.distmarker.OnlyIn;
+import top.ilov.mcmods.ekac.items.ItemInit;
 
 import javax.annotation.Nonnull;
 import java.util.function.Supplier;
@@ -16,7 +17,7 @@ import java.util.function.Supplier;
 public enum ekaCHatMaterial implements IArmorMaterial {
 
     EKAC_HAT("ekac_hat", 5, new int[]{1, 1, 1, 1}, 15, SoundEvents.ITEM_ARMOR_EQUIP_LEATHER,
-            0.0F, 0.0F, () -> Ingredient.fromItems(Items.LEATHER));
+            0.0F, 0.0F, () -> Ingredient.fromItems(ItemInit.ekac_hat.get()));
 
     private static final int[] MAX_DAMAGE_ARRAY = new int[]{13, 15, 16, 11};
     private final String name;
