@@ -3,14 +3,14 @@ loaderVersion="[40,)"
 license="GNU GPLv3"
 [[mods]]
 modId="ekac"
-version="0.2b1"
+version="0.2.1"
 displayName="ekaC"
 displayURL="https://www.curseforge.com/minecraft/mc-mods/ekac"
 logoFile="ekac.png"
 credits="WOW"
 authors="Myxhan(xhanhh)"
 description='''
-This mod adds an inverted ekac.
+This mod adds some inverted things.
 ekaC!!
 (alright it's not a cake)?
 '''
