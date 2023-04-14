@@ -1,0 +1,28 @@
+modLoader="javafml"
+loaderVersion="[43,)"
+license="GNU GPLv3"
+issueTrackerURL="https://github.com/xhanhh/ekac-forge/issues"
+[[mods]]
+modId="ekac"
+version="0.3.0"
+displayName="ekaC"
+#updateJSONURL=""
+displayURL="https://www.curseforge.com/minecraft/mc-mods/ekac"
+logoFile="ekac.png"
+credits="hhh"
+authors="xhanhh"
+description='''
+This mod adds some inverted things.
+'''
+[[dependencies.ekac]]
+    modId="forge"
+    mandatory=true
+    versionRange="[43,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.ekac]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.19.2,1.20)"
+    ordering="NONE"
+    side="BOTH"
