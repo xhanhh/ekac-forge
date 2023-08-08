@@ -1,0 +1,22 @@
+{
+    "textures": {
+        "particle": "cakedelight:block/ekac/ekac_side",
+        "bottom": "cakedelight:block/ekac/ekac_bottom",
+        "top": "cakedelight:block/ekac/ekac_top",
+        "side": "cakedelight:block/ekac/ekac_side",
+        "inside": "cakedelight:block/ekac/ekac_inner"
+    },
+    "elements": [
+        {   "from": [ 11, 0, 1 ],
+            "to": [ 15, 8, 15 ],
+            "faces": {
+                "down":  { "texture": "#bottom", "cullface": "down" },
+                "up":    { "texture": "#top" },
+                "north": { "texture": "#side" },
+                "south": { "texture": "#side" },
+                "west":  { "texture": "#inside" },
+                "east":  { "texture": "#side" }
+            }
+        }
+    ]
+}

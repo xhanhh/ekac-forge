@@ -1,0 +1,13 @@
+{
+  "cakedelight.name": "糕蛋",
+  "block.cakedelight.ekac": "糕蛋",
+  "item.cakedelight.ekac_hat": "糕蛋帽",
+  "item.cakedelight.small_ekac": "小糕蛋",
+  "item.cakedelight.eggs_with_tomato": "番茄炒蛋",
+  "item.cakedelight.cream": "奶油",
+  "item.cakedelight.ekac_slice": "糕蛋切片",
+  "item.cakedelight.tomato_egg_noodle_soup": "西红柿鸡蛋面",
+
+  "msg.cakedelight.join_world": "§6[ekaC]§r 欢迎您游玩本模组，祝您游戏愉快！（本提示可在配置文件中关闭）",
+  "config.cakedelight.enable_join_msg": "启用玩家进入世界欢迎提示（默认：false）"
+}

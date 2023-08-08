@@ -1,0 +1,27 @@
+modLoader="javafml"
+loaderVersion="${loader_version_range}"
+license="${mod_license}"
+issueTrackerURL="https://github.com/xhanhh/ekac-forge/issues"
+[[mods]]
+modId="cakedelight"
+version="${mod_version}"
+displayName="${mod_name}"
+# A URL to query for updates for this mod. See the JSON update specification https://docs.neoforged.net/docs/misc/updatechecker/
+updateJSONURL="https://mcapis.ilov.top/update/cakedelight/mc1.20/forge.json"
+displayURL="https://legacy.curseforge.com/minecraft/mc-mods/ekac"
+logoFile="logo.png"
+authors="${mod_authors}"
+description='''${mod_description}'''
+[[dependencies.cakedelight]]
+    modId="forge"
+    mandatory=true
+    versionRange="${neo_version_range}"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.cakedelight]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="${minecraft_version_range}"
+    ordering="NONE"
+    side="BOTH"

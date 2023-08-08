@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern":
+  [
+    "AAA",
+    "A A",
+    "   "
+  ],
+
+  "key":
+  {
+    "A":
+    {
+      "item": "minecraft:wheat"
+    }
+  },
+
+  "result":
+  {
+    "item": "cakedelight:ekac_hat",
+    "count": 1
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "textures": {
+      "particle": "cakedelight:block/ekac/ekac_side",
+      "bottom": "cakedelight:block/ekac/ekac_bottom",
+      "top": "cakedelight:block/ekac/ekac_top",
+      "side": "cakedelight:block/ekac/ekac_side",
+      "inside": "cakedelight:block/ekac/ekac_inner"
+    }
+  },
+  "variants": {
+    "bites=0": { "model": "cakedelight:cake_uneaten" },
+    "bites=1": { "model": "cakedelight:cake_slice1" },
+    "bites=2": { "model": "cakedelight:cake_slice2" },
+    "bites=3": { "model": "cakedelight:cake_slice3" },
+    "bites=4": { "model": "cakedelight:cake_slice4" },
+    "bites=5": { "model": "cakedelight:cake_slice5" },
+    "bites=6": { "model": "cakedelight:cake_slice6" }
+  }
+
+
+}

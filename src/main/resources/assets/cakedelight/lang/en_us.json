@@ -1,0 +1,14 @@
+{
+  "cakedelight.name": "Cake Delight",
+  "block.cakedelight.ekac": "ekaC",
+  "item.cakedelight.ekac_hat": "ekaC Hat",
+  "item.cakedelight.small_ekac": "Portable ekaC",
+  "item.cakedelight.eggs_with_tomato": "Scrambled eggs with tomato",
+  "item.cakedelight.cream": "Cream",
+  "item.cakedelight.ekac_slice": "Slice of ekaC",
+  "item.cakedelight.tomato_egg_noodle_soup": "Tomato Egg Noodle Soup",
+
+  "msg.cakedelight.join_world": "§6[ekaC]§r Welcome to play this mod, enjoy it. (This tip can be turned off in the config)",
+
+  "config.cakedelight.enable_join_msg": "Enable the player to join the world welcome message (default: false)"
+}
